@@ -1,20 +1,20 @@
 # @CrispyBaccoon
-> Hi, I’m @CrispyBaccoon;
+Hi, I’m @CrispyBaccoon;
 
-> I’m currently learning coffeescript, c++, python and html.
+I’m currently learning javascript, typescript, c#, python and html.
+I have experience in JavaScript (and TypeScript), React-Javascript and C#.
 
-> I have experience in PowerShell (and Batch) and Markdown (not really a language; i'm just good at it).
+## Projects
+- [Forest](forest-link), a simple markdown editor
+- [bread](bread-link), a simple console todo list
+- [PowerShell-Modules](psModules-link) deprecated
 
-Currently working on a project; [PowerShell Modules][projectLink].
 ## Links:
 * [My Github Web Page][webpageLink]
 * [PowerShell Modules Github Page][ghPM]
 
-<!---
-CrispyBaccoon/CrispyBaccoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[projectLink]: https://crispybaccoon.github.io/modules-powershell/
+[psModules-link]: https://crispybaccoon.github.io/modules-powershell/
+[forest-link]: https://github.com/CrispyBaccoon/Forest/tree/ForestWindows
+[bread-link]: https://github.com/CrispyBaccoon/bread/
 [webpageLink]: https://crispybaccoon.github.io/
 [ghPM]: https://github.com/CrispyBaccoon/modules-powershell/
