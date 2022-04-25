@@ -6,7 +6,7 @@ I have experience in JavaScript (and TypeScript), React and C#.
 
 ## Projects
 - [Forest](https://github.com/CrispyBaccoon/Forest/), a simple markdown editor.
-- [pascal.vim](https://github.com/CrispyBaccoon/pascal.vim/), a minimalistic colorscheme for nvim/vim.
+- [fantastic.vim](https://github.com/CrispyBaccoon/fantastic.vim/), a minimalistic colorscheme for nvim/vim.
 - [bread](https://github.com/CrispyBaccoon/bread/), a simple console todo list.
 - [PowerShell-Modules](https://crispybaccoon.github.io/modules-powershell/) deprecated
 
