@@ -1,5 +1,4 @@
-# @CrispyBaccoon
-Hi, I’m @CrispyBaccoon;
+# CrispyBaccoon
 
 I’m currently learning javascript, typescript, c#, css and html.
 I have experience in JavaScript (and TypeScript), React and C#.
@@ -11,6 +10,6 @@ I have experience in JavaScript (and TypeScript), React and C#.
 - [PowerShell-Modules](https://crispybaccoon.github.io/modules-powershell/) deprecated
 
 ## Links:
-* [My Github Web Page](https://crispybaccoon.github.io/)
-* [cottage](https://crispybaccoon.github.io/cottage/)
+- [My Github Web Page](https://crispybaccoon.github.io/)
+- [cottage](https://crispybaccoon.github.io/cottage/)
 
