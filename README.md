@@ -1,6 +1,6 @@
 # CrispyBaccoon
 
-I’m currently learning javascript, typescript, c#, css and html.
+I'm currently learning javascript, typescript, c#, css and html.
 I have experience in JavaScript (and TypeScript), React and C#.
 
 ## Projects
