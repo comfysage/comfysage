@@ -8,7 +8,3 @@ I have experience in JavaScript (and TypeScript), React and C#.
 - [wallpapers](https://github.com/CrispyBaccoon/wallpapers/), a collection of somewhat high-res images.
 - [bread](https://github.com/CrispyBaccoon/bread/), a simple console todo list.
 
-## Links:
-- [My Github Web Page](https://crispybaccoon.github.io/)
-- [cottage](https://crispybaccoon.github.io/cottage/)
-
