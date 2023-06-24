@@ -1,5 +1,5 @@
-I'm currently learning Go, c++ and c.
-I have experience in JavaScript (and TypeScript), React, scss (css), c++, C# and python.
+I'm currently learning Rust, Svelte and c.
+I have experience in Go, c++, c, TypeScript, React, Vue, scss (css) and C#.
 
 ## :seedling: Hayashi
 
