@@ -1,6 +1,10 @@
 I'm currently learning Rust, Svelte and c.
 I have experience in Go, c++, c, TypeScript, React, Vue, scss (css) and C#.
 
+## :tea: chaivim
+
+[chaivim](https://github.com/CrispyBaccoon/chaivim) is a modular neovim distro built for sustainability and ease of use. it allows neovim configuration to be easier using custom config modules.
+
 ## :seedling: Hayashi
 
 [hayashi](https://github.com/CrispyBaccoon/hayashi), :seedling: a tiny distro-independent package manager written in Go.
