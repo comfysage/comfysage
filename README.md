@@ -12,6 +12,11 @@ I have experience in Go, c++, c, TypeScript, React, Vue, scss (css) and C#.
 Saku is a lightweight nightly package manager for macOS/linux.
 It provides simplified package management and aims to be lightweight and efficient.
 
+## :package: neovim plugins
+
+- [keymaps.nvim](https://github.com/CrispyBaccoon/keymaps.nvim), :tangerine: a keymap manager for Neovim, simplifying keybinding management and customization.
+- [shelf.nvim](https://github.com/CrispyBaccoon/shelf.nvim), :books: a bookmarks manager for Neovim.
+
 ## :art: Colorschemes
 
 - [aki](https://github.com/CrispyBaccoon/aki), a calm neovim colorscheme for cozy morning coding.
