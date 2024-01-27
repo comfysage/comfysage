@@ -15,7 +15,7 @@ It provides simplified package management and aims to be lightweight and efficie
 ## :package: neovim plugins
 
 - [keymaps.nvim](https://github.com/CrispyBaccoon/keymaps.nvim), :tangerine: a keymap manager for Neovim, simplifying keybinding management and customization.
-- [shelf.nvim](https://github.com/CrispyBaccoon/shelf.nvim), :books: a bookmarks manager for Neovim.
+- [shelf.nvim](https://github.com/CrispyBaccoon/shelf.nvim), :books: a bookmarks manager for [chaivim](https://github.com/crispybaccoon/chaivim).
 
 ## :art: Colorschemes
 
