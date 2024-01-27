@@ -5,11 +5,11 @@ I have experience in Go, c++, c, TypeScript, React, Vue, scss (css) and C#.
 
 [chaivim](https://github.com/CrispyBaccoon/chaivim) is a modular neovim distro built for sustainability and ease of use. it allows neovim configuration to be easier using custom config modules.
 
-## :seedling: Hayashi
+## :seedling: saku
 
-[hayashi](https://github.com/CrispyBaccoon/hayashi), :seedling: a tiny distro-independent package manager written in Go.
+[saku](https://github.com/CrispyBaccoon/saku), :seedling: a tiny distro-independent package manager written in Rust.
 
-Hayashi is a lightweight package manager for macOS/linux, written in Go.
+Saku is a lightweight nightly package manager for macOS/linux.
 It provides simplified package management and aims to be lightweight and efficient.
 
 ## :art: Colorschemes
