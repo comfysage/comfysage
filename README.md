@@ -19,6 +19,7 @@ It provides simplified package management and aims to be lightweight and efficie
 
 ## :art: Colorschemes
 
+- [evergarden](https://github.com/CrispyBaccoon/evergarden), :rose: a comfy neovim colorscheme for cozy morning coding.
 - [aki](https://github.com/CrispyBaccoon/aki), a calm neovim colorscheme for cozy morning coding.
 - [gruvboxed](https://github.com/CrispyBaccoon/gruvboxed), A comfortable retro groove colorscheme for Vim.
 - [adachi.nvim](https://github.com/crispybaccoon/adachi.nvim). a calming colorscheme written in lua.
