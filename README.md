@@ -1,5 +1,5 @@
-I'm currently learning Rust, Svelte and c.
-I have experience in Go, c++, c, TypeScript, React, Vue, scss (css) and C#.
+I'm currently learning Rust and Svelte.
+I have experience in Go, Rust, c, lua, c++, TypeScript, React, Vue, css and c#.
 
 ## :tea: chaivim
 
