@@ -26,9 +26,8 @@ It provides simplified package management and aims to be lightweight and efficie
 
 ## :rocket: Other projects
 
-- [Forest](https://github.com/CrispyBaccoon/Forest/), a simple markdown editor.
+- [gtea](https://github.com/CrispyBaccoon/gtea), :tea: a small git utility in bash.
+- [lime](https://github.com/CrispyBaccoon/lime), :lemon: a tiny zsh configuration manager.
 - [dotfiles](https://github.com/CrispyBaccoon/dotfiles/), my dotfiles.
-- [stew](https://github.com/CrispyBaccoon/stew/), a config manager written in javascript.
 - [wallpapers](https://github.com/CrispyBaccoon/wallpapers/), a collection of somewhat high-res images.
-- [bread](https://github.com/CrispyBaccoon/bread/), a simple console todo list.
-
+- [Forest](https://github.com/CrispyBaccoon/Forest/), a simple markdown editor.
