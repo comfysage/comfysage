@@ -1,4 +1,4 @@
-I'm currently learning Rust and Svelte.
+I'm currently learning Odin and Svelte.
 I have experience in Go, Rust, c, lua, c++, TypeScript, React, Vue, css and c#.
 
 ## :tea: chaivim
