@@ -1,5 +1,15 @@
-I'm currently learning Odin and Svelte.
-I have experience in Go, Rust, c, lua, c++, TypeScript, React, Vue, css and c#.
+
+```nix
+{
+  about = {
+    job = "student";
+    age = x: 2^5 - x + i;
+  };
+} // {
+  learn = with lang; [ odin svelte ];
+  exp = with lang; [ go rust c lua cpp typescript react vue css csharp ];
+}
+```
 
 ## :tea: chaivim
 
