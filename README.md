@@ -1,3 +1,5 @@
+> trans rights 🏳️‍⚧️
+
 ```nix
 {
   about = {
