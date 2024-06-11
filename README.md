@@ -12,7 +12,7 @@
 }
 ```
 
-currently actively maintaining @isabelroses 's todo list. 
+currently actively maintaining [@isabelroses](https://github.com/isabelroses)'s todo list. 
 
 ## :tea: chaivim
 
