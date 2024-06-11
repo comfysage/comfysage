@@ -12,6 +12,8 @@
 }
 ```
 
+currently actively maintaining @isabelroses 's todo list. 
+
 ## :tea: chaivim
 
 [chaivim](https://github.com/comfysage/chaivim) is a modular neovim distro built for sustainability and ease of use. it allows neovim configuration to be easier using custom config modules.
