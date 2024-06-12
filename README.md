@@ -18,6 +18,12 @@ currently actively maintaining [@isabelroses](https://github.com/isabelroses)'s 
 
 [chaivim](https://github.com/comfysage/chaivim) is a modular neovim distro built for sustainability and ease of use. it allows neovim configuration to be easier using custom config modules.
 
+## :rose: evergarden
+
+a comfy neovim colorscheme for cozy morning coding. Evergarden is a Neovim
+colorscheme designed for a cozy coding experience, inspired by the Everforest
+and Nord themes.
+
 ## :seedling: saku
 
 [saku](https://github.com/comfysage/saku), :seedling: a tiny distro-independent package manager written in Rust.
