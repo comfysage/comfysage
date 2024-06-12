@@ -12,46 +12,39 @@
 }
 ```
 
-currently actively maintaining [@isabelroses][]'s
-todo list.
+currently actively maintaining [@isabelroses][]'s todo list.
 
 ## :tea: chaivim
 
-[chaivim][] is a modular neovim distro
-built for sustainability and ease of use. it allows neovim configuration to be
-easier using custom config modules.
+[chaivim][] is a modular neovim distro built for sustainability and ease of
+use. it allows neovim configuration to be easier using custom config modules.
 
 ## :rose: evergarden
 
 a comfy neovim colorscheme for cozy morning coding. [evergarden][] is a neovim
-colorscheme designed for a cozy coding experience, inspired by [everforest][] and [nord][].
+colorscheme designed for a cozy coding experience, inspired by [everforest][]
+and [nord][].
 
 ## :seedling: saku
 
-[saku][], :seedling: a tiny distro-independent
-package manager written in Rust.
+[saku][], :seedling: a tiny distro-independent package manager written in Rust.
 
-Saku is a lightweight nightly package manager for macOS/linux.
-It provides simplified package management and aims to be lightweight and
-efficient.
+Saku is a lightweight nightly package manager for macOS/linux. It provides
+simplified package management and aims to be lightweight and efficient.
 
 ## :package: neovim plugins
 
-- [keymaps.nvim][], :tangerine: a
-  keymap manager for Neovim, simplifying keybinding management and customization.
-- [shelf.nvim][], :books: a bookmarks
-  manager for [chaivim][].
+- [keymaps.nvim][], :tangerine: a keymap manager for Neovim, simplifying
+  keybinding management and customization.
+- [shelf.nvim][], :books: a bookmarks manager for [chaivim][].
 
 ## :art: Colorschemes
 
-- [evergarden][], :rose: a comfy neovim
-  colorscheme for cozy morning coding.
-- [twilight-moon][], :evergreen_tree:
-  a cozy neovim colorscheme for nightly programmers.
-- [aki][], a calm neovim colorscheme for cozy
-  morning coding.
-- [gruvboxed][], A comfortable retro
-  groove colorscheme for Vim.
+- [evergarden][], :rose: a comfy neovim colorscheme for cozy morning coding.
+- [twilight-moon][], :evergreen_tree: a cozy neovim colorscheme for nightly
+  programmers.
+- [aki][], a calm neovim colorscheme for cozy morning coding.
+- [gruvboxed][], A comfortable retro groove colorscheme for Vim.
 
 ## :rocket: Other projects
 
