@@ -23,9 +23,8 @@ easier using custom config modules.
 
 ## :rose: evergarden
 
-a comfy neovim colorscheme for cozy morning coding. Evergarden is a Neovim
-colorscheme designed for a cozy coding experience, inspired by the Everforest
-and Nord themes.
+a comfy neovim colorscheme for cozy morning coding. [evergarden][] is a neovim
+colorscheme designed for a cozy coding experience, inspired by [everforest][] and [nord][].
 
 ## :seedling: saku
 
@@ -45,7 +44,7 @@ efficient.
 
 ## :art: Colorschemes
 
-- [evergarden](https://github.com/comfysage/evergarden), :rose: a comfy neovim
+- [evergarden][], :rose: a comfy neovim
   colorscheme for cozy morning coding.
 - [twilight-moon](https://github.com/comfysage/twilight-moon), :evergreen_tree:
   a cozy neovim colorscheme for nightly programmers.
@@ -61,3 +60,7 @@ efficient.
 - [dotfiles](https://github.com/comfysage/dotfiles/), my dotfiles.
 - [wallpapers](https://github.com/comfysage/wallpapers/), a collection of somewhat high-res images.
 - [Forest](https://github.com/comfysage/Forest/), a simple markdown editor.
+
+[evergarden]: https://github.com/comfysage/evergarden
+[everforest]: https://github.com/sainnhe/everforest
+[nord]: https://github.com/nordtheme/nord
