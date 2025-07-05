@@ -7,8 +7,8 @@
     age = x: 2^5 - x + i;
   };
 } // {
-  learn = with lang; [ odin svelte ];
-  exp = with lang; [ go rust c lua cpp typescript react vue css csharp ];
+  learn = with lang; [ zig ];
+  exp = with lang; [ go rust c lua nix cpp typescript react vue css csharp ];
 }
 ```
 
