@@ -12,8 +12,6 @@
 }
 ```
 
-currently actively maintaining [@isabelroses][]'s todo list.
-
 ## :tea: chaivim
 
 [chaivim][] is a modular neovim distro built for sustainability and ease of
