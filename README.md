@@ -12,10 +12,11 @@
 }
 ```
 
-## :tea: chaivim
+## :tea: sylvee
 
-[chaivim][] is a modular neovim distro built for sustainability and ease of
-use. it allows neovim configuration to be easier using custom config modules.
+[sylvee][] is a neovim configuration garden - quiet, native-first, and gentle on the user.
+it doesn’t aim to reinvent workflows or wrap everything in custom abstractions.
+instead, it helps neovim bloom on its own terms.
 
 ## :rose: evergarden
 
@@ -23,15 +24,17 @@ a comfy neovim colorscheme for cozy morning coding. [evergarden][] is a neovim
 colorscheme designed for a cozy coding experience, inspired by [everforest][]
 and [nord][].
 
-## :seedling: saku
+## :evergreen_tree: lynn
 
-[saku][], :seedling: a tiny distro-independent package manager written in Rust.
-
-Saku is a lightweight nightly package manager for macOS/linux. It provides
-simplified package management and aims to be lightweight and efficient.
+[lynn][] is a small plugin manager built around neovim's native vim.pack system.
+it's designed to feel invisible - doing just enough to ease plugin use without
+layering on complexity. ideal for native-first distros or anyone
+who prefers minimal configuration flow.
 
 ## :package: neovim plugins
 
+- [lylla.nvim][], :potted_plant: a minimal statusline plugin for neovim
+  with extensive configuration; simple by default, flexible if needed.
 - [keymaps.nvim][], :tangerine: a keymap manager for Neovim, simplifying
   keybinding management and customization.
 - [shelf.nvim][], :books: a bookmarks manager for [chaivim][].
@@ -48,11 +51,10 @@ simplified package management and aims to be lightweight and efficient.
 
 - [gtea][], :tea: a small git utility in bash.
 - [lime][], :lemon: a tiny zsh configuration manager.
-- [dotfiles][], my dotfiles.
+- [flake][], my nixos dotfiles.
 - [wallpapers][], a collection of somewhat high-res images.
 - [Forest][], a simple markdown editor.
 
-[@isabelroses]: https://github.com/isabelroses
 [chaivim]: https://github.com/comfysage/chaivim
 [evergarden]: https://github.com/comfysage/evergarden
 [everforest]: https://github.com/sainnhe/everforest
@@ -66,5 +68,9 @@ simplified package management and aims to be lightweight and efficient.
 [gtea]: https://github.com/comfysage/gtea
 [lime]: https://github.com/comfysage/lime
 [dotfiles]: https://github.com/comfysage/dotfiles
+[flake]: https://github.com/comfysage/flake
 [wallpapers]: https://github.com/comfysage/wallpapers
 [Forest]: https://github.com/comfysage/Forest
+[sylvee]: https://github.com/comfysage/sylvee
+[lynn]: https://github.com/comfysage/lynn.nvim
+[lylla.nvim]: https://github.com/comfysage/lylla.nvim
