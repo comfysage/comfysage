@@ -33,6 +33,8 @@ who prefers minimal configuration flow.
 
 ## :package: neovim plugins
 
+- [artio.nvim][], :bear: minimal extui fuzzy finder for neovim; native-first
+  and configurable.
 - [lylla.nvim][], :potted_plant: a minimal statusline plugin for neovim
   with extensive configuration; simple by default, flexible if needed.
 - [keymaps.nvim][], :tangerine: a keymap manager for Neovim, simplifying
@@ -73,4 +75,5 @@ who prefers minimal configuration flow.
 [Forest]: https://github.com/comfysage/Forest
 [sylvee]: https://github.com/comfysage/sylvee
 [lynn]: https://github.com/comfysage/lynn.nvim
+[artio.nvim]: https://github.com/comfysage/artio.nvim
 [lylla.nvim]: https://github.com/comfysage/lylla.nvim
