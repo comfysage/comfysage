@@ -5,7 +5,7 @@
   about = {
     job = "student";
     age = x: 2^5 - x + i;
-    enbyfriend = github:koirip;
+    boo = github:koibtw;
   };
 } // {
   learn = with lang; [ zig ];
