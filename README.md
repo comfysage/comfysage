@@ -2,10 +2,13 @@
 
 ```nix
 {
-  about = {
+  me = {
     job = "student";
     age = x: 2^5 - x + i;
-    boo = github:koibtw;
+    url = [ codeberg:comfysage github:comfysage bsky:robinwobin.dev ];
+  };
+  boo = {
+    url = [ codeberg:koibtw github:koibtw bsky:koi.rip ];
   };
 } // {
   learn = with lang; [ zig ];
@@ -22,8 +25,8 @@ instead, it helps neovim bloom on its own terms.
 ## :rose: evergarden
 
 a comfy neovim colorscheme for cozy morning coding. [evergarden][] is a neovim
-colorscheme designed for a cozy coding experience, inspired by [everforest][]
-and [nord][].
+colorscheme designed for a cozy coding experience, inspired by everforest
+and nord.
 
 ## :evergreen_tree: lynn
 
@@ -40,7 +43,9 @@ who prefers minimal configuration flow.
   with extensive configuration; simple by default, flexible if needed.
 - [keymaps.nvim][], :tangerine: a keymap manager for Neovim, simplifying
   keybinding management and customization.
-- [shelf.nvim][], :books: a bookmarks manager for [chaivim][].
+- [nivvie.nvim][], :books: a session manager.
+- [tether.nvim][], :books: a neovim session switcher.
+- [shelf.nvim][], :books: a bookmarks manager.
 
 ## :art: Colorschemes
 
@@ -56,12 +61,9 @@ who prefers minimal configuration flow.
 - [lime][], :lemon: a tiny zsh configuration manager.
 - [flake][], my nixos dotfiles.
 - [wallpapers][], a collection of somewhat high-res images.
-- [Forest][], a simple markdown editor.
 
 [chaivim]: https://github.com/comfysage/chaivim
-[evergarden]: https://github.com/comfysage/evergarden
-[everforest]: https://github.com/sainnhe/everforest
-[nord]: https://github.com/nordtheme/nord
+[evergarden]: https://github.com/everviolet/nvim
 [saku]: https://github.com/comfysage/saku
 [keymaps.nvim]: https://github.com/comfysage/keymaps.nvim
 [shelf.nvim]: https://github.com/comfysage/shelf.nvim
@@ -71,10 +73,11 @@ who prefers minimal configuration flow.
 [gtea]: https://github.com/comfysage/gtea
 [lime]: https://github.com/comfysage/lime
 [dotfiles]: https://github.com/comfysage/dotfiles
-[flake]: https://github.com/comfysage/flake
+[flake]: https://codeberg.org/comfysage/flake
 [wallpapers]: https://github.com/comfysage/wallpapers
-[Forest]: https://github.com/comfysage/Forest
-[sylvee]: https://github.com/comfysage/sylvee
-[lynn]: https://github.com/comfysage/lynn.nvim
-[artio.nvim]: https://github.com/comfysage/artio.nvim
-[lylla.nvim]: https://github.com/comfysage/lylla.nvim
+[sylvee]: https://codeberg.org/comfysage/sylvee
+[lynn]: https://codeberg.org/comfysage/lynn.nvim
+[artio.nvim]: https://codeberg.org/comfysage/artio.nvim
+[lylla.nvim]: https://codeberg.org/comfysage/lylla.nvim
+[nivvie.nvim]: https://codeberg.org/comfysage/nivvie.nvim
+[tether.nvim]: https://codeberg.org/comfysage/tether.nvim
