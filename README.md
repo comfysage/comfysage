@@ -1,5 +1,14 @@
 > trans rights 🏳️‍⚧️
 
+hiii, im robinwobin. im a sociology student that loves programming weird little things.
+im currently in love with zig & lua :3
+
+i created the :rose: evergarden colorscheme ([codeberg][codeberg-evergarden], [github][github-evergarden]) and am the current co-maintainer of :ice_cream: [catppuccin/nvim].
+
+[codeberg-evergarden]: https://codeberg.org/evergarden/nvim
+[github-evergarden]: https://github.com/everviolet/nvim
+[catppuccin/nvim]: https://github.com/catppuccin/nvim
+
 ```nix
 {
   me = {
@@ -12,7 +21,7 @@
   };
 } // {
   learn = with lang; [ zig ];
-  exp = with lang; [ go rust c lua nix cpp typescript react vue css csharp ];
+  exp = with lang; [ go rust c lua nix typescript vue react python csharp ];
 }
 ```
 
