@@ -20,8 +20,7 @@ i created the :rose: evergarden colorscheme ([codeberg][codeberg-evergarden], [g
     url = [ codeberg:koibtw github:koibtw bsky:koi.rip ];
   };
 } // {
-  learn = with lang; [ zig ];
-  exp = with lang; [ go rust c lua nix typescript vue react python csharp ];
+  fav = with lang; [ zig lua nix c rust vue typescript ];
 }
 ```
 
