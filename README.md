@@ -24,12 +24,6 @@ i created the :rose: evergarden colorscheme ([codeberg][codeberg-evergarden], [g
 }
 ```
 
-## :tea: sylvee
-
-[sylvee][] is a neovim configuration garden - quiet, native-first, and gentle on the user.
-it doesn’t aim to reinvent workflows or wrap everything in custom abstractions.
-instead, it helps neovim bloom on its own terms.
-
 ## :rose: evergarden
 
 a comfy neovim colorscheme for cozy morning coding. [evergarden][] is a neovim
@@ -43,10 +37,19 @@ it's designed to feel invisible - doing just enough to ease plugin use without
 layering on complexity. ideal for native-first distros or anyone
 who prefers minimal configuration flow.
 
+## :bear: artio
+
+[artio][] is a minimal extui fuzzy finder for neovim. it is focused on being
+both native-first and configurable.
+
+## :tea: sylvee
+
+[sylvee][] is a neovim configuration garden - quiet, native-first, and gentle on the user.
+it doesn’t aim to reinvent workflows or wrap everything in custom abstractions.
+instead, it helps neovim bloom on its own terms.
+
 ## :package: neovim plugins
 
-- [artio.nvim][], :bear: minimal extui fuzzy finder for neovim; native-first
-  and configurable.
 - [lylla.nvim][], :potted_plant: a minimal statusline plugin for neovim
   with extensive configuration; simple by default, flexible if needed.
 - [keymaps.nvim][], :tangerine: a keymap manager for Neovim, simplifying
@@ -85,7 +88,7 @@ who prefers minimal configuration flow.
 [wallpapers]: https://github.com/comfysage/wallpapers
 [sylvee]: https://codeberg.org/comfysage/sylvee
 [lynn]: https://codeberg.org/comfysage/lynn.nvim
-[artio.nvim]: https://codeberg.org/comfysage/artio.nvim
+[artio]: https://codeberg.org/comfysage/artio.nvim
 [lylla.nvim]: https://codeberg.org/comfysage/lylla.nvim
 [nivvie.nvim]: https://codeberg.org/comfysage/nivvie.nvim
 [tether.nvim]: https://codeberg.org/comfysage/tether.nvim
