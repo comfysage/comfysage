@@ -12,7 +12,7 @@ i created the :rose: evergarden colorscheme ([codeberg][codeberg-evergarden], [g
 ```nix
 {
   me = {
-    job = "student";
+    job = null;
     age = x: 2^5 - x + i;
     url = [ codeberg:comfysage github:comfysage bsky:robinwobin.dev ];
   };
